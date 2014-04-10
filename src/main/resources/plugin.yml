@@ -1,0 +1,6 @@
+name: adminchat
+version: 1.0
+main: com.thomas15v.adminchat.adminchat
+commands:
+   a:
+      permission: adminchat.chat
